@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#0000FF"
     tools:context="com.example.poline.ntw_hackathon.Home">
 
     <TextView
@@ -16,7 +17,9 @@
         android:layout_marginBottom="51dp"
         android:layout_marginLeft="32dp"
         android:layout_marginStart="32dp"
-        android:text="What are you looking for?" />
+        android:text="What are you looking for?"
+        android:textColor="#B22222"
+        android:textSize="20sp"/>
     <Button
         android:id="@+id/subletor"
         android:layout_width="wrap_content"
@@ -32,7 +35,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/subletor"
-        android:layout_toEndOf="@+id/textView"
         android:layout_toRightOf="@+id/textView"
         android:text="Rent" />
 </RelativeLayout>
