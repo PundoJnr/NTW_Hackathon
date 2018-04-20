@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480715139328",
+    "firebase_url": "https://subletor-boof999.firebaseio.com",
+    "project_id": "subletor-boof999",
+    "storage_bucket": "subletor-boof999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480715139328:android:cfadfd9569b372e5",
+        "android_client_info": {
+          "package_name": "com.example.poline.ntw_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480715139328-tordcd5vd8actvo4ilr1btbc22h11ink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtx9Fmi0rEWQh-RxHLTZuc04qre2BPLI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

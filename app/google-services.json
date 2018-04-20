@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929285101515",
+    "firebase_url": "https://ntwhackathon.firebaseio.com",
+    "project_id": "ntwhackathon",
+    "storage_bucket": "ntwhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929285101515:android:cfadfd9569b372e5",
+        "android_client_info": {
+          "package_name": "com.example.poline.ntw_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929285101515-jt4gtq2nhkar1oeti28hpdh2jnsfhi39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poline.ntw_hackathon",
+            "certificate_hash": "8bc753f7ca0e9e47ae6ec9fe6534290317c1e1de"
+          }
+        },
+        {
+          "client_id": "929285101515-r60652buiakjt2uv576kp76kuajgng2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKI3QuZdX6kzDI4ouOxPChD_jWny8Vy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929285101515-r60652buiakjt2uv576kp76kuajgng2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

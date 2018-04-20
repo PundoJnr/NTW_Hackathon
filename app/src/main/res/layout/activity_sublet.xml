@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.poline.ntw_hackathon.Sublet">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name :"
+        android:layout_marginTop="126sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginStart="10sp"
+        android:textColor="#000000"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="126sp"
+        android:layout_marginLeft="69sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="location :"
+        android:layout_marginTop="180sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginStart="10sp"
+        android:textColor="#000000"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="180sp"
+        android:layout_marginLeft="100sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="price :"
+        android:layout_marginTop="250sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginStart="10sp"
+        android:textColor="#000000"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="250sp"
+        android:layout_marginLeft="69sp"/>
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Office"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="41sp"
+        android:layout_marginStart="41sp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.poline.ntw_hackathon.Subletor">
+
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="126dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Name" />
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="200sp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="example@subletor.com"
+        />
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="41dp"
+        android:layout_marginStart="41dp"
+        android:ems="10"
+        android:layout_marginTop="270sp"
+        android:inputType="number"
+        android:hint="0712123456"
+        />
+ <EditText
+     android:id="@+id/password"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_marginLeft="41dp"
+     android:layout_marginStart="41dp"
+     android:layout_marginTop="330sp"
+     android:ems="10"
+     android:inputType="textPassword"
+     android:hint="*********"
+     />
+<Button
+    android:id="@+id/create"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="395sp"
+    android:layout_marginLeft="41dp"
+    android:layout_marginStart="41dp"
+    android:text="CREATE ACCOUNT"/>
+</RelativeLayout>
