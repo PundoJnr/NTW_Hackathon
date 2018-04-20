@@ -22,11 +22,11 @@ public class Subletor extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_subletor);
 
-   Button button = (Button) findViewById(R.id.create);
-   name = (EditText) findViewById(R.id.name);
-   email = (EditText) findViewById(R.id.email);
-   number = (EditText) findViewById(R.id.number);
-   password = (EditText) findViewById(R.id.password);
+     button = (Button) findViewById(R.id.create);
+     name = (EditText) findViewById(R.id.name);
+     email = (EditText) findViewById(R.id.email);
+     number = (EditText) findViewById(R.id.number);
+     password = (EditText) findViewById(R.id.password);
 
     button.setOnClickListener(new View.OnClickListener() {
         @Override
