@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_bg">#1e1e1e</color>
+    <color name="orange">#ff5500</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CDCDCD</color>
+    <color name="blue">#0066cc</color>
+    <color name="blueback">#99ffff</color>
+    <color name="list_menu_drawer_devider">#ffffff</color>
+    <color name="list_divider">#FDFDFD</color>
+    <color name="bg_app">#ffffff</color>
+    <color name="title_item">#807e7e</color>
+    <color name="children_title_item">#999999</color>
+    <color name="selected_item">#f1f1f1</color>
+    <color name="selected_item_title">#ff5500</color>
+    <color name="bg_splash">#008060</color>
+    <color name="title_dialog">#000000</color>
+    <color name="buffed_bg">#00aef0</color>
+    <color name="content">#807e7e</color>
+    <color name="menu_drawer_pressed">#2c2c2c</color>
+    <color name="heading_bar">#04a27a</color>
+    <color name="btn_normal">#04a27a</color>
+    <color name="btn_pressed">#03ab80</color>
+    <color name="violet">#464464</color>
+</resources>

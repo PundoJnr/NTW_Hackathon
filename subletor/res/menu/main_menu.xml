@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <!--
+        <item
+        android:id="@+id/menu_item_share"
+        android:title="@string/share_label"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        app:showAsAction="always"/>
+    -->
+    <item
+        android:id="@+id/btn_action_upload"
+        android:icon="@drawable/ic_upload"
+        android:title="@string/un_bookmark_label"
+        app:showAsAction="always|collapseActionView"/>
+
+</menu>

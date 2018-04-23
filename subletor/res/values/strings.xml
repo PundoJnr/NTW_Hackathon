@@ -1,0 +1,260 @@
+<resources>
+
+    <string name="facebook_app_id">571610369618746</string>
+    <string name="google_map_api">AIzaSyDXXRsNkM-OvyC7PqtcCJJIdKwXZThLCU4</string>
+    <string name="app_name">Real Estate</string>
+    <string name="download_label">Download</string>
+    <string name="remove_label">Remove</string>
+    <string name="bookmark_label">Bookmark</string>
+    <string name="un_bookmark_label">Unbookmark</string>
+    <string name="channel_label">Channel</string>
+    <string name="feed_label">Feed</string>
+    <string name="share_label">Share</string>
+    <string name="content_descripton_logo_splash">real estate</string>
+    <string name="folder_save_photo">droidmarket</string>
+    <string name="send_enquiry">Send Enquiry</string>
+    <string name="your_message">Your message</string>
+    <string name="this_user_not_share_phone_number">This users not share phone number</string>
+    <string name="cannot_rating_for_yourself">You can not rating for your self</string>
+    <string name="rate_this_product">Rate this product</string>
+    <string name="select_amenities">Select amenities</string>
+    <string name="browser">Browser</string>
+    <string name="set_as_thumbnail">Set as thumbnail</string>
+    <string name="skype">Skype</string>
+    <string name="overview">Overview</string>
+    <string name="google_map">Google map</string>
+    <string name="nearby">NearBy</string>
+    <string name="radius">Radius</string>
+    <string name="radius_valid">Radius need larger than zero</string>
+    <string name="featured">Featured</string>
+    <!-- Dialog msg -->
+
+
+    <!-- End dialog msg -->
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="del_label">Delete</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="gallery">Gallery</string>
+    <string name="rating">Rating</string>
+
+    <!-- DOWNLOAD MSG -->
+    <string name="download_ok">Download completion</string>
+    <string name="download_failed">Download failed, file not found</string>
+    <string name="open_network">Check your internet connection</string>
+    <string name="download_in_progress">Download in progress</string>
+    <string name="download_cancel">Download cancel</string>
+    <string name="please_wait_msg">Please wait...</string>
+    <string name="upload_product_msg">Please wait, this may take 1-2 minutes</string>
+    <!-- END -->
+
+
+    <!-- TEXT LABEL -->
+    <string name="county_label">County</string>
+    <string name="type_label">Types</string>
+    <string name="city_label">City</string>
+    <string name="price_label">Price</string>
+    <string name="min_price">Min Price</string>
+    <string name="max_price">Max Price</string>
+    <string name="marker_label">Marker</string>
+    <string name="amenities_label">Amenities</string>
+    <string name="title_label">Title</string>
+    <string name="content_label">Content</string>
+    <string name="upload_label">Submit</string>
+    <string name="what_you_want">Select images</string>
+    <string name="vl_required">Please fill all required information!</string>
+    <string name="type_message">Please type your message</string>
+    <string name="alert">Alert</string>
+    <string name="purpose_label">Purpose</string>
+    <string name="confirm_take_photo">Are you want select this photo ?</string>
+    <string name="sales_label">Sales</string>
+    <string name="rent_label">Rent</string>
+    <string name="sales_and_rent_label">Sales and Rent</string>
+    <string name="all_label">All</string>
+    <string name="tap_to_change_avt">Tap to change your avatar</string>
+    <string name="follow_label">Follow</string>
+    <string name="bookmarked_product">Mark Prodcuts</string>
+    <string name="logout">Logout</string>
+    <string name="close_label">Close</string>
+    <string name="filter_label">Filter</string>
+    <string name="home_label">Home</string>
+    <string name="profile_label">Profile</string>
+    <string name="update_profile_label">Change your profile</string>
+    <string name="choose_your_user_name">Choose your username</string>
+    <string name="skip_label">Skip</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="area">Area(m2)</string>
+    <string name="location">Location</string>
+    <string name="get_location_guide">Location(Please tap on map to get location)</string>
+    <string name="valid_location">Please get location</string>
+    <string name="ask_to_turn_gps">GPS do not available, do you want settings gps ?</string>
+    <string name="gps_setting">GPS settings</string>
+    <!-- END -->
+
+
+    <!-- DETAIL LAYOUT -->
+    <string name="dt_type">Type:</string>
+    <string name="dt_purpose">Purpose:</string>
+    <string name="dt_county">County:</string>
+    <string name="dt_citites">Cities:</string>
+    <string name="dt_address">Address:</string>
+    <string name="dt_bathroom">Bathroom:</string>
+    <string name="dt_bedroom">Bedroom:</string>
+    <string name="dt_area">Area:</string>
+    <string name="dt_price">Price:</string>
+    <!-- END -->
+
+
+    <!-- USER PROFILE -->
+    <string name="full_name">Full Name</string>
+    <string name="email">Login email</string>
+    <string name="website">Website</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="update_label">Update</string>
+    <string name="edit_label">Edit</string>
+    <string name="update_gallery">Edit Gallery</string>
+    <string name="update_description">Edit Description</string>
+    <string name="comment_label">Comment</string>
+    <string name="search_hint">Search</string>
+    <string name="user_name">User Name</string>
+    <string name="submit">Submit</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_via_acc">Login via account</string>
+    <string name="verified_code">Verified Code</string>
+    <string name="resend">Resend</string>
+    <string name="email_or_user_name">Email or Username</string>
+    <string name="status">Status</string>
+    <!-- END -->
+
+
+    <!-- TOAST TIME OUT -->
+    <string name="toast_time_out">5000</string>
+    <string name="splash_time_out">1000</string>
+    <!-- END -->
+
+
+    <!-- VALID MSG -->
+    <string name="invalid_email">Invalid email</string>
+    <string name="email_exist">This email had exist on our system, please use another email</string>
+    <string name="user_name_exist">This username had exist on our system, please use another username</string>
+    <string name="invalid_full_name">Invalid FullName, need from 5 to 50 charactes</string>
+    <string name="invalid_user_name">Invalid UserName, need from 5 to 50 charactes, accept lower case, digits and "_-" symbols</string>
+    <!-- END -->
+
+
+    <!-- DRAWER MENU -->
+    <string-array name="drawer_menus">
+        <item>Home</item>
+        <item>Featured</item>
+        <item>Types</item>
+        <item>County</item>
+        <item>City</item>
+        <item>Filter</item>
+        <item>Near By</item>
+        <item>Fan Page</item>
+        <item>About Us</item>
+    </string-array>
+    <string-array name="purpose_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="purpose_name">
+        <item>Sale</item>
+        <item>Rent</item>
+        <item>Sale and Rent</item>
+    </string-array>
+    <string-array name="time_rate_id">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="time_rate_name">
+        <item>Not Set</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="status_id">
+        <item>-1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="status_name">
+        <item>Not Set</item>
+        <item>Sold</item>
+    </string-array>
+    <!-- END -->
+
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+    <!-- SERVER CONNECT API -->
+    <string name="domain_url">http://preview.androidgeeker.net/cms_realestate/</string>
+    <string name="type_json_url">http://preview.androidgeeker.net/cms_realestate/api/type_api/</string>
+    <string name="county_json_url">http://preview.androidgeeker.net/cms_realestate/api/county_api/</string>
+    <string name="cities_json_url">http://preview.androidgeeker.net/cms_realestate/api/cities_api/</string>
+    <string name="estate_json_url">http://preview.androidgeeker.net/cms_realestate/api/estate_api/</string>
+    <string name="images_json_url">http://preview.androidgeeker.net/cms_realestate/api/images_api/</string>
+    <string name="users_json_url">http://preview.androidgeeker.net/cms_realestate/api/users_api/</string>
+    <string name="marker_json_url">http://preview.androidgeeker.net/cms_realestate/api/marker_api/</string>
+    <string name="amenities_json_url">http://preview.androidgeeker.net/cms_realestate/api/amenities_api/</string>
+    <string name="admob_publisher_id">ca-app-pub-1610982520322923/3609467496</string>
+    <!-- END -->
+
+    <string name="admob_test_device_ids">TEST_EMULATOR, 8B36E51A40D7E5D6E63DED5E5ED90909,8B36E51A40D7E5D6E63DED5E5ED90909,09BE878A175D3E055FD8B4CC018FDCE4,AD3D4716DC7ABE9C627413F44F200AA3,D405F82CAF60D1FE4E355782390B5717</string>
+    <string name="copyright">By LrandomDev.com</string>
+    <string name="loading">Loading...</string>
+    <string name="about_us_label">About us</string>
+    <string name="login_label">Login</string>
+    <string name="change_pass">Change password</string>
+    <string name="old_pass">Old password</string>
+    <string name="new_pass">New passsword</string>
+    <string name="confirm_pass">Confirm password</string>
+    <string name="confirm_pass_alert">Password incorrect</string>
+    <string name="error_alert">Error, try again</string>
+    <string name="update_success_label">Update successfull</string>
+    <string name="update_failed_label">Error, please check your password</string>
+    <string name="update_profile_failed_label">Error, Please check your infomation</string>
+    <string name="login_failed">Login failed, please check again</string>
+    <string name="fb_login_failed">Login failed, have an user have an account same your email and facebook id you supply in our system</string>
+    <string name="verified_code_failed">Your verified code incorrect, please check again</string>
+    <string name="verified_code_success">Congrulation!!! you have been create account successfull, please login now !!!</string>
+    <string name="password">Password</string>
+    <string name="loging">Login, please wait ...</string>
+    <string name="result_label">Search result</string>
+    <string name="per">Per</string>
+    <string name="about_us_content">
+<![CDATA[
+   		<center>Copyright &copy; lrandom development team.</center>
+   		<center>
+   		   All Rights Reserved.
+   		</center>
+     ]]>
+    </string>
+    <string name="negotiate_label">negotiate</string>
+    <string name="properties_label">Properties</string>
+    <string name="detail_label">Detail</string>
+    <string name="verified_msg">One verified code have been send to your email, please check it and fill in the next form</string>
+    <string name="success_action">Successfully</string>
+    <string name="failed_action">Failed</string>
+    <string name="seller">Seller</string>
+    <string name="update_at">Update At</string>
+    <string name="use_facebook_account">Login via facebook account</string>
+    <string name="use_exist_account">Use exist account</string>
+    <string name="fan_page">Fanpage</string>
+    <string name="fan_page_link">https://m.facebook.com/pages/LrandomDev/541746319279638</string>
+    <string name="spam_msg">You can not send email after 2 minutes remind</string>
+    <string name="delete_successfull">Delete successfully</string>
+    <string name="confirm_del">Are you sure you want delete this ?</string>
+    <string name="enquiry_alert">You cannot send enquiry to your self !</string>
+
+    <string-array name="choose_photo">
+        <item>SD card</item>
+        <item>Camera</item>
+    </string-array>
+
+</resources>
